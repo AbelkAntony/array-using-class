@@ -13,7 +13,7 @@ public:
 	{
 		cout<<"\nEnter Roll Number : ";
 		cin>>rollNumber;
-		cout<<"\nEnter marks \n";
+		cout<<"\nEnter marks of 5 Subjects\n";
 		for (int i=0; i<5; i++)
 			cin>>mark[i];
 	}
